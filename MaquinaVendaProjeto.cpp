@@ -67,7 +67,7 @@ int main() {
   // CARDAPIO
   cout << endl
        << "NOME COMPLETO: LÍVIA MARIA CASSIMIRO DA SILVA - RA: 2840482213015";
-    cout << endl
+  cout << endl
        << "NOME COMPLETO: AUDREY FRANCEZI - RA: 2840482313010";
 
   cout << endl
